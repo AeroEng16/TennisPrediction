@@ -1,5 +1,3 @@
- - Edit csv to remove games with more than the correct number of sets
  - Update scraping notebook to only scrape dates not included from current date to last date in existing file then append results
  - Add all scraping components together in one notebook.
- - Combine player data with match data to create overall database
  - Feature engineering e.g. dominance etc. - https://www.ultimatetennisstatistics.com/glossary
