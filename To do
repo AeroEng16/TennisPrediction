@@ -1,3 +1,2 @@
- - Update scraping notebook to only scrape dates not included from current date to last date in existing file then append results
  - Add all scraping components together in one notebook.
  - Feature engineering e.g. dominance etc. - https://www.ultimatetennisstatistics.com/glossary
