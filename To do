@@ -1,3 +1,6 @@
  - Add all scraping components together in one notebook.
  - Add year and court type to player data
  - Feature engineering e.g. dominance etc. - https://www.ultimatetennisstatistics.com/glossary
+   -https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-024-00815-7      
+   -https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/m.sipko.pdf
+     - Look at using differences for features like serve %, dominance ratio, rank etc.
