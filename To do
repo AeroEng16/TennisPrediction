@@ -13,3 +13,5 @@ GLICKO
 - python implementation of Glicko https://github.com/ryankirkman/pyglicko2/blob/master/glicko2.py -> try importing this into jupyter notebook to use
       - Or copy the code and add the mods to Glicko from this article
                https://medium.com/@taiga_tachibana/improve-tennis-rating-system-based-on-glicko-2-system-d481e83a1ecb
+ - https://deltadata.wordpress.com/2013/12/28/glicko-2-for-tennis-part-1-the-math/
+ - Modify in batches over a fixed period (either by tournament if I can find a way, or over a calendar period, e.g. monthly)
