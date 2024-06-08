@@ -13,4 +13,12 @@ Feature Ideas
 Player Data
 
 - Link ELO data to player database
+
+
+#Names to Change when scraping Elo
+
+Holger Rune
+Taylor Fritz
+Etcheverry
+
 - Figure out data structure for player data dependant on year and surface
