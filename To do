@@ -1,5 +1,7 @@
  - Add all scraping components together in one notebook.
- - Add year and court type to player data
+ - Add year and court type to player data 
+    - Use court specific data as performance indicators (again difference between players)
+ - Use historical performance stats against common opponents as feature again think about using these as differences 
  - Feature engineering e.g. dominance etc. - https://www.ultimatetennisstatistics.com/glossary
    -https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-024-00815-7      
    
@@ -7,8 +9,10 @@ Feature Ideas
 - https://libstore.ugent.be/fulltxt/RUG01/002/945/727/RUG01-002945727_2021_0001_AC.pdf
 -https://www.doc.ic.ac.uk/teaching/distinguished-projects/2015/m.sipko.pdf
      - Look at using differences for features like serve %, dominance ratio, rank etc.   
-
 - https://cs230.stanford.edu/projects_spring_2018/reports/8290687.pdf
+
+- Can't use live performance stats (other than score as features, don't have data)
+    - If difficult, I can try and scrape some of the performance (e.g. % serves, % points etc.) from 24live, option for improvement later
 
 Player Data
 
