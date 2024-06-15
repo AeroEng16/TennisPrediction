@@ -1,7 +1,8 @@
  - Add all scraping components together in one notebook.
  - Add year and court type to player data 
     - Use court specific data as performance indicators (again difference between players)
- - Use historical performance stats against common opponents as feature again think about using these as differences 
+         - work out career averages on each surface time averaged with time discounting, not equal weighted. Then use
+            these stats for each match.
  - Feature engineering e.g. dominance etc. - https://www.ultimatetennisstatistics.com/glossary
    -https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-024-00815-7      
    
